@@ -22,7 +22,7 @@ Built using Arduino and sensors for automation.
 🔹 Traffic Congestion Alert System  
 Built using ESP8266 for smart monitoring.
 
-Currently
+### Currently
 - Learning and building consistently  
 - Exploring frontend development and backend development opportunities.
 - Working toward full stack web development roles.

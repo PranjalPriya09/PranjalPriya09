@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there! I am Pranjal👋
 
-<!--
-**PranjalPriya09/PranjalPriya09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- I’m a pre-final year engineering student passionate about building practical solutions.
+- I’m currently exploring web development, IoT, embedded systems, and product innovation.
+- I enjoy working on projects that connect software with real-world applications.
 
-Here are some ideas to get you started:
+### Tech Stack
+💻 Frontend: HTML, CSS, Bootstrap, JavaScript  
+🛠️ Backend: Python, MySQl, Flask API
+⚙️ IoT & Hardware: Arduino, ESP8266, Sensor Integration  
+🎨 Design & Prototyping: Figma, Onshape, Paper Prototyping, 2D&3D Modelling, 2D lazer cutting, 3D Printing  
+☁️ Tools & Platforms:  Twilio, Tinkercad  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects I've Built
+🔹 CleanSweep – Smart Waste Management System  
+I worked on sensor integration and smart dustbin alerts using real-time notifications.
+
+🔹 Automatic Soil Irrigation System  
+Built using Arduino and sensors for automation.
+
+🔹 Traffic Congestion Alert System  
+Built using ESP8266 for smart monitoring.
+
+Currently
+- Learning and building consistently  
+- Exploring frontend development and backend development opportunities.
+- Working toward full stack web development roles.
+
+### Connect With Me
+LinkedIn: https://www.linkedin.com/in/pranjal-priya-58b14528b
+Email: pranjalpriyacontact@gmail.com

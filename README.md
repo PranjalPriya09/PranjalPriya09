@@ -7,7 +7,7 @@
 
 ### Tech Stack
 💻 Frontend: HTML, CSS, Bootstrap, JavaScript  
-🛠️ Backend: Python, MySQl, Flask API
+🛠️ Backend: Python, MySQl, Flask API<br>
 ⚙️ IoT & Hardware: Arduino, ESP8266, Sensor Integration  
 🎨 Design & Prototyping: Figma, Onshape, Paper Prototyping, 2D&3D Modelling, 2D lazer cutting, 3D Printing  
 ☁️ Tools & Platforms:  Twilio, Tinkercad  
@@ -28,5 +28,5 @@ Currently
 - Working toward full stack web development roles.
 
 ### Connect With Me
-LinkedIn: https://www.linkedin.com/in/pranjal-priya-58b14528b
+LinkedIn: https://www.linkedin.com/in/pranjal-priya-58b14528b<br>
 Email: pranjalpriyacontact@gmail.com
